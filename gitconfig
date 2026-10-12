@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 340580372+AliceParnr@users.noreply.github.com
+	name = Alice Parniere
